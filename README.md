@@ -1,1 +1,1 @@
-# Hangman from MITx online course
+# Hangman
